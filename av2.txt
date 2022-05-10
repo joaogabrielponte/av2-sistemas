@@ -1,1 +1,19 @@
 Troca de oleo,Balanceamento
+Revisao dos 20 mil km,Lavagem e aspiraçao
+Remap,Troca de freios
+Lavagem,Polimento
+Troca da bomba d'agua,Lavagem,Polimento
+Troca do radiador
+Troca de pneus,Alinhamento,Balanceamento
+Troca da correia dentada,Troca da velas de igniçao
+Troca do sistema de modulo
+Pastilha de freio,Suspensao,Caixa de cambio
+Revisao dos 45 mil km,Instalaçao do farol dianteiro esquerdo,Lavagem e aspiraçao
+Troca da bateria
+Troca do carter do motor
+Revisao dos 20 mil km, Lavagem e aspiraçao
+Troca dos amortecedores,Troca da velas de igniçao
+Troca de oleo,Balanceamento,Troca de pneu,Alinhamento
+Lavagem,Polimento
+Remap,Troca da bomba d'agua
+Troca de oleo,Troca da bateria
